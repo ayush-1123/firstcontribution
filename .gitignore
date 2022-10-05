@@ -56,6 +56,7 @@ web_modules/
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
+temp_auto_push.bat
 .rts2_cache_es/
 .rts2_cache_umd/
 
@@ -106,7 +107,6 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 .idea
 
 # yarn v2
@@ -116,3 +116,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+.gitignore
+branch_structure.json
